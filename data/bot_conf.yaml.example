@@ -2,41 +2,41 @@
 
 
 # Basic
-TOKEN: ""
+TOKEN: "2044832605:AAFrDXn1N6_7AFWoB-flGBW4j1jVjuiLLgk"
 
 # Get they in https://my.telegram.org/
-APP_ID: 000000
-APP_HASH: ""
+APP_ID: 7395896
+APP_HASH: "cd3998ddf318dad74d7c506731bc0abc"
 
 #Generate a telethon str session  with https://repl.it/@SpEcHiDe/GenerateStringSession (telethon one)
-STRING_SESSION: ""
+STRING_SESSION: "1BVtsOG4Bu2dPwKk24B77pEnEwz4dXHeu0fhVEumUePfYy6X9gY3isHwLODKYFSFyuL2ZbrT7Y1U4f--Zxezc9XX4C4jO5E79juLgaEgrKw2F2MB14wqC0hAvrQ5Wqs-rtCe_79ujRdIpFKxrFr_p8Hoo9u-1OhGWcjpaBJOPz29RdBwvNILViwCeHjYkTOA0SJM-8gLhZ0QW9d1AOr372RnBx9kjJpEJIHAkY0vu7h1yIKCX71rYATWEvZr_CJhKHw3hv4pGff6g38Uxvp9COJMnFUK1DzPK9Fd_M37kXoABWaVUGgh7jVgVSCKNf-oLoYsMrZ9hCexmU0xH1zfunilu0jnh-Qc="
 
 
-MONGO_URI: "mongodb+srv://dfsdfX:dfsfdX@cluster0.df4j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+MONGO_URI: "mongodb+srv://VndGroupNew:VndGroupNew@cluster0.fwym5.mongodb.net/cluster0?retryWrites=true&w=majority"
 
 MONGO_URI2: ""
 MONGO_PORT: 27017
-MONGO_DB': 'DaisyX'
+MONGO_DB': 'VndGroupNew'
 
 API_PORT': 8080
 
-REDIS_URI: "redis-1324.c234.us-east-1-4.ec4.cloud.redislabs.com"
-REDIS_PORT: 15514
-REDIS_PASS: "sdfgg"
+REDIS_URI: "redis-11871.c294.ap-northeast-1-2.ec2.cloud.redislabs.com:11871"
+REDIS_PORT: 10730419
+REDIS_PASS: "VndGroup"
 TEMP_MAIL_KEY: ""
-OWNER_ID: 1141839926
-OPERATORS: [1141839926, 00000000]
+OWNER_ID: 1826486119
+OPERATORS: [1826486119, 00000000]
 SUPPORT_CHAT: -000000000
 SUDO_USERS: ""
 
-DATABASE_URL: ""
+DATABASE_URL: "postgres://frecopip:LlIsZsD-i6OaaWXcW5tihi31H6B725NN@fanny.db.elephantsql.com/frecopip"
 VIRUS_API_KEY: ""
 TIME_API_KEY: ""
 REM_BG_API_KEY: ""
-ARQ_API: ""
+ARQ_API: "OOWZTL-GECKHY-KCXKHM-XLRGOU-ARQ"
 
 # Advanced
-SW_API: ""
+SW_API: "VB~tIGZv0p8urCZFM4psuaJX03KN9hQFZw7twou7Fd64B~bDzX~VngaxCK_jOxcS"
 IBM_WATSON_CRED_URL: ""
 IBM_WATSON_CRED_PASSWORD: ""
 OPENWEATHERMAP_ID: ""
